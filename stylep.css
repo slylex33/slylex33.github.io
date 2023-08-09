@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+header{
+    background-color: rgb(108, 27, 2);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(251, 236, 128);
+    font-family: 'Bungee Spice', cursive;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.footer{
+    text-align: center;
+    width: 100%;
+    align-items: end;
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: rgb(164, 62, 31);
+  }
+
+  .main{
+    align-items: center;
+  }
+
+  
+ .brownies{
+    text-align: center;
+ }
+
+ .galletas{
+    text-align: center;
+ }
+
+ .smores{
+    text-align: center;
+ }
+
+ 

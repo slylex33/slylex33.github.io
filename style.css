@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+
+
+header{
+    background-color: rgb(108, 27, 2);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(251, 236, 128);
+    font-family: 'Bungee Spice', cursive;
+}
+
+h2{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(251, 236, 128);
+    font-family: 'Bungee Spice', cursive;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+}
+
+.main{
+   
+    text-align: justify;
+    font-size: 21px;
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: rgb(164, 62, 31);
+  }
+
+#recetas img{
+    width: 200px;
+    height: 200px;
+}
